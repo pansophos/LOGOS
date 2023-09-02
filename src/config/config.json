@@ -1,0 +1,40 @@
+{
+  "site": {
+    "title": "λόγος",
+    "base_url": "https://pansophos.github.io",
+    "base_path": "/LOGOS",
+    "trailing_slash": false,
+    "favicon": "/LOGOS/images/favicon.ico",
+    "logo": "/LOGOS/images/λόγος_banner.png",
+    "logo_width": "400",
+    "logo_height": "100",
+    "logo_text": "λόγος",
+    "apple_touch_icon": "/LOGOS/images/apple-touch-icon.png",
+    "favicon32": "/LOGOS/images/favicon-32x32.png",
+    "favicon16": "/LOGOS/images/favicon-16x16.png",
+    "manifest": "/LOGOS/images/site.webmanifest",
+    "safari_pinned_tab": "/LOGOS/images/safari-pinned-tab.svg"
+  },
+
+  "settings": {
+    "pagination": 5,
+    "summary_length": 100
+  },
+
+  "metadata": {
+    "meta_author": "B.F. Griffith",
+    "meta_image": "/LOGOS/images/Pansophical_Pursuits_LOGO.png",
+    "meta_description": "λόγος official website"
+  },
+
+  "params": {
+    "contact_form_action": "#",
+    "copyright": "Copyright © B.F. Griffith"
+  },
+
+  "contactinfo": {
+    "address": "Orlando, Florida, United States",
+    "eMail": "BFGriffith@Facebook.com",
+    "Twitter": "@BFGriffith"
+  }
+}

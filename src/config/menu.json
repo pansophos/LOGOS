@@ -1,0 +1,61 @@
+{
+  "main": [
+    {
+      "name": "🏛",
+      "url": "/LOGOS"
+    },
+    {
+      "name": "λόγος",
+      "url": "",
+      "hasChildren": true,
+      "children": [
+        {
+          "name": "≔ Logical Symbology ⊧",
+          "url": "/LOGOS/logical-symbology"
+        },
+        {
+          "name": "✍🏼 Authors",
+          "url": "/LOGOS/authors"
+        },
+        {
+          "name": "𑗊 Categories",
+          "url": "/LOGOS/categories"
+        },
+        {
+          "name": "🏷 Tags",
+          "url": "/LOGOS/tags"
+        },
+        {
+          "name": "㊙️ Privacy Policy 🗝",
+          "url": "/LOGOS/privacy-policy"
+        }
+      ]
+    },
+    {
+      "name": "About",
+      "url": "/LOGOS/about"
+    },
+    {
+      "name": "Contact",
+      "url": "/LOGOS/contact"
+    },
+    {
+      "name": "Support",
+      "url": "/LOGOS/support"
+    }
+  ],
+  "footer": [
+    {
+      "name": "About",
+      "url": "/LOGOS/about"
+    },
+    {
+      "name": "Contact",
+      "url": "/LOGOS/contact"
+    },
+    {
+      "name": "Privacy Policy",
+      "url": "/LOGOS/privacy-policy"
+    }
+  ]
+}
